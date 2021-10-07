@@ -1,7 +1,7 @@
 import pytest
 import random
 
-from cs506 import kmeans,read
+from cs506 import kmeans, read
 
 
 def clustered_all_points(clustering, dataset):
